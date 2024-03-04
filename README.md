@@ -12,6 +12,16 @@
         <img src="https://github.com/hamo-o.png?width=200px" alt="햄 프로필" />
       </a>
     </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/dayoung-woo" target="_blank">
+        <img src="https://github.com/dayoung-woo.png?width=100px" alt="다영 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/i-jinkyung" target="_blank">
+        <img src="https://github.com/i-jinkyung.png?width=200px" alt="진경 프로필" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -19,12 +29,22 @@
         햄
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/hamo-o" target="_blank">
+        DaYoung.Woo
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/hamo-o" target="_blank">
+        진갱
+      </a>
+    </td>
   </tr>
 </table>
 <br/>
 
 ## 시간
-매주 월요일 `19:00`
+매주 일요일 `15:00`
 
 <br/>
 <br/>
@@ -67,12 +87,12 @@ modern-react-deep-dive
 - 요약 진행 시 각자 주제 선정
 - 스터디 시간에 발표 진행
 
-|  주차   |   날짜   | 주제 | DaYoung.Woo | hamo-o | i-jinkyung | Raon |
-| :-----: | :------: | :----: | :----: | :----: | :------: | :--: |
-| 1주차 | 3/4 |   1장 - 리액트 개발을 위해 꼭 알아야 할 자바스크립트   |  -  | - |  -  |  -  |
+|  주차   |   날짜   | 주제 | DaYoung.Woo | hamo-o | i-jinkyung | 
+| :-----: | :------: | :----: | :----: | :----: | :------: | 
+| 1주차 | 3/4 |   1장 - 리액트 개발을 위해 꼭 알아야 할 자바스크립트   |  -  | - |  -  |
 
 <br/>
 
 ## 장소
-- 영등포 인근 오프라인
+- 노량진 인근 오프라인
 - 디스코드
